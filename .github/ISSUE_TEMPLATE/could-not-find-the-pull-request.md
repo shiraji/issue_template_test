@@ -8,6 +8,8 @@ assignees: ''
 
 ---
 
+Please consider using debug mode. You need to change the setting to use debug mode.
+
 ## Does your repository squash PR commits and customize the commit message?
 
 ## Does the commit merge to master branch?
